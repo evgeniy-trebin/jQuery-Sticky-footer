@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+#header {
+    width: 100%;
+    background-color: green;
+    color: white;
+    height: 100px;
+}
+
+#footer {
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
